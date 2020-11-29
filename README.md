@@ -1,1 +1,3 @@
 # Wedge_final
+
+Finished the wedge. Talked about it in the "recap" in submission md, but I downgraded to a B here because I could not figure out how to do the part for A for Part 1. I will be downgrading to a B in the class as long as that's okay with you. I know I made a lot of this way harder on you by completing this so late and I am very sorry for that. Hopefully the A&A that I did (that would not be required for a B), will help make up for this hassle caused by the tardiness on my part.
